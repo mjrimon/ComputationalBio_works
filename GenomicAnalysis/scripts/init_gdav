@@ -1,0 +1,30 @@
+#!/bin/bash
+# https://devhints.io/bash Bash scripting cheatsheet -> replace first match (1 ->2 ) remove prefix, suffix ...
+# Tons of stackoverflow like this one https://stackoverflow.com/questions/47302898/redirect-stdout-and-stderr-to-file-permanently-but-keep-printing-them
+# script to get the results from final_project
+
+# for conda activate to work
+# https://stackoverflow.com/questions/59665231/conda-4-7-how-to-activate-env-in-bash-script
+# we have to run this script in interactive mode 'bash -i' or source ~/.bash_profile
+
+
+# If sourced from main script initialization is done. No need to source .bash_profile
+# no need to create log
+if [[ -z $1 ]]; then 
+    echo -e "\nInitilazing...\n\n"
+    source ~/.bash_profile
+
+	# 1st Create a log file with all stdout and stderr from the script keeping 
+	logpath=~/scripts/logs
+	mkdir -p $logpath
+
+	scriptname=$(basename "$0") 
+	scriptname=${scriptname%%.sh}
+	date_hour=$(date +%Y%m%d_%H%M)
+	FILE_Log=${logpath}/outscript_${scriptname}_${date_hour}.log
+	[ -f $FILE_Log ] && rm $FILE_Log
+	exec > >(tee -a "${FILE_Log}" )
+	exec 2> >(tee -a "${FILE_Log}" >&2)
+
+fi
+

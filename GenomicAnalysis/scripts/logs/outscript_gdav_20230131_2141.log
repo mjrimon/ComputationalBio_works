@@ -1,0 +1,1110 @@
+
+
+
+running /home/mariajose.rimon/scripts/gdav_1.sh
+
+
+Process sample files
+
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 26.88 sec
+ [map_db](map reverse reads) 20.10 sec
+ [map_db](sort reads) 0.06 sec
+[main] Total time map_tax: 47.15 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 6.52 sec
+ [calc_mgc](get mgc abundances) 0.02 sec
+[main] Total time calc_mgc: 7.15 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.44 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 54.73 sec
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 20.44 sec
+ [map_db](map reverse reads) 20.01 sec
+ [map_db](sort reads) 0.06 sec
+[main] Total time map_tax: 40.55 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 6.15 sec
+ [calc_mgc](get mgc abundances) 0.02 sec
+[main] Total time calc_mgc: 6.77 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.40 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 47.71 sec
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 20.05 sec
+ [map_db](map reverse reads) 19.81 sec
+ [map_db](sort reads) 0.06 sec
+[main] Total time map_tax: 39.96 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 6.30 sec
+ [calc_mgc](get mgc abundances) 0.02 sec
+[main] Total time calc_mgc: 6.98 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.42 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 47.36 sec
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 20.55 sec
+ [map_db](map reverse reads) 19.72 sec
+ [map_db](sort reads) 0.06 sec
+[main] Total time map_tax: 40.37 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 6.19 sec
+ [calc_mgc](get mgc abundances) 0.02 sec
+[main] Total time calc_mgc: 6.82 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.40 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 47.59 sec
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 39.27 sec
+ [map_db](map reverse reads) 38.91 sec
+ [map_db](sort reads) 0.13 sec
+[main] Total time map_tax: 78.36 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 10.38 sec
+ [calc_mgc](get mgc abundances) 0.08 sec
+[main] Total time calc_mgc: 11.68 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.41 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 90.45 sec
+
+
+      ########     Metagenomics     ######## 
+
+
+1.1.- and 1.1.1.-
+The most abundant organism in high-temperature
+
+The most abundant organism in high-temperature is: Aquifex aeolicus [ref_mOTU_v25_10705]	0.9003380869
+
+
+Pretty printing with %
+The most abundant organism in high-temperature is: Aquifex aeolicus [ref_mOTU_v25_10705], with a relative abundance of:  90.0338%
+
+
+1.1.6.- Do you still detect the same organism if you run mOTUs with a more stringent threshold?
+motus profile -f /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.1.fq.gz -r /home/mariajose.rimon/final_project/metagenomics-hotspring-hightemp.2.fq.gz -o /home/mariajose.rimon/results/metagenomics/hightemp_g5.motu -n hightemp_g5 -g 5
+
+
+Alpha diversity in high temp with marker-gene detections for several marker genes
+Alpha diversity in high temp with marker-gene detections of 5 are: 2
+The most abundant organism in high-temperature with marker-gene detections of 5 is: Aquifex aeolicus [ref_mOTU_v25_10705]	0.9149218741
+
+Alpha diversity in high temp with marker-gene detections of 8 are: 2
+The most abundant organism in high-temperature with marker-gene detections of 8 is: Aquifex aeolicus [ref_mOTU_v25_10705]	0.9149218741
+
+Alpha diversity in high temp with marker-gene detections of 10 are: 2
+The most abundant organism in high-temperature with marker-gene detections of 10 is: Aquifex aeolicus [ref_mOTU_v25_10705]	0.9149218741
+
+
+
+1.2 The most abundant organism in normal-temperature (>1%) are: 
+Aquifex aeolicus [ref_mOTU_v25_10705]	0.0306511001
+Methanococcus maripaludis [ref_mOTU_v25_01426]	0.0288772117
+
+1.2.1.- They are also present in high-temperature sample with relative abundance of:
+Aquifex aeolicus [ref_mOTU_v25_10705]	0.9003380869
+Methanococcus maripaludis [ref_mOTU_v25_01426]	0.0828605231
+
+
+1.4.- which is the condition (high or normal temperature) with a greater level of alpha biodiversity?
+Alpha diversity in high temp is: 15
+Alpha diversity in normal temp is: 225
+
+
+Alpha diversity in normal temp (225) is greater than in high temp (15)
+
+
+1.5 Can you detect any algae organisms in the normal-temperature sample? Report if so. If not, why not?
+
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 39.42 sec
+ [map_db](map reverse reads) 39.74 sec
+ [map_db](sort reads) 0.13 sec
+[main] Total time map_tax: 79.35 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 9.74 sec
+ [calc_mgc](get mgc abundances) 0.09 sec
+[main] Total time calc_mgc: 11.03 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.42 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 90.80 sec
+
+
+detected kingdoms in normal temp sample
+
+Bacteria	0.9467379315
+Archaea	0.0430250300
+
+
+[main]  MAP_TAX -----------
+[main] Number of detected lanes: 1
+[main] Run bwa on lane 1
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.1.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+[W::main] Warning: file /home/mariajose.rimon/final_project/metagenomics-hotspring-normaltemp.2.fq.gz. The length of the first 2500 reads is 151. It is suggested to quality control the reads before profiling
+ [map_db](map forward reads) 39.92 sec
+ [map_db](map reverse reads) 39.41 sec
+ [map_db](sort reads) 0.12 sec
+[main] Total time map_tax: 79.49 sec
+[main]  CALC_MGC -----------
+[main] Minimum alignment length: 75 (average read length: 151)
+ [calc_mgc](parse 1 sam/bam file) 10.21 sec
+ [calc_mgc](get mgc abundances) 0.09 sec
+[main] Total time calc_mgc: 11.57 sec
+[main]  CALC_MOTU -----------
+ [calc_motu] (Create taxonomy profile) 0.45 sec
+[main]  TOTAL TIME (map_tax+calc_mgc+calc_motu): 91.51 sec
+Cyanobacteria	0.0140383305
+Press return or wait for timeout to continue...
+
+
+
+
+running /home/mariajose.rimon/scripts/gdav_2.sh
+
+
+
+
+      ########     genome analysis (basic checks)     ######## 
+
+
+check directory and files
+total 43912
+drwxr-xr-x. 2 root root    4096 dic 20 10:18 .
+drwxr-xr-x. 3 root root    4096 dic 20 10:20 ..
+-rw-r--r--. 1 root root 5870847 dic 20 10:18 hightemp01.r1.fq.gz
+-rw-r--r--. 1 root root 5871638 dic 20 10:18 hightemp01.r2.fq.gz
+-rw-r--r--. 1 root root 5870972 dic 20 10:18 hightemp02.r1.fq.gz
+-rw-r--r--. 1 root root 5872670 dic 20 10:18 hightemp02.r2.fq.gz
+-rw-r--r--. 1 root root 5364277 dic 20 10:18 normal01.r1.fq.gz
+-rw-r--r--. 1 root root 5365491 dic 20 10:18 normal01.r2.fq.gz
+-rw-r--r--. 1 root root 5364267 dic 20 10:18 normal02.r1.fq.gz
+-rw-r--r--. 1 root root 5363207 dic 20 10:18 normal02.r2.fq.gz
+
+
+cat first 20 lines to check file format
+
+@AQUIFEX_00001_1301_1575_0:0:0_0:0:0_0/1
+AAATCCCGCACCTCTGGGGAGGGGTTCGATTTCGATTATCGCGTGACCGTACTGCCCTCTACCACCAGTTTGCTTGATGAACTTACCCTCACCAATTGCC
++
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+@AQUIFEX_00001_45_338_0:0:0_0:0:0_1/1
+AGTTGCTCACATTGACGCGGGTAAAACTACGACTACCGAGAGAATTCTCTATTACACGGGTAAGACTTACAAGATAGGTGAAGTTCACGAAGGTGCTGCA
++
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+@AQUIFEX_00001_558_856_0:0:0_0:0:0_2/1
+GAGAAGGCAGGTAATCTATAACTGCGTCAAGAAGGGGTTGAACACCTTTGTTCTTGAATGCAGAACCGCAAAGAACGGGAACGAGCTTTCTCTCTATTGT
++
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+@AQUIFEX_00001_90_403_0:0:0_0:0:0_3/1
+TCTCTATTACACGGGTAAGACTTACAAGATAGGTGAAGTTCACGAAGGTGCTGCAACGATGGACTGGATGCCCCAGGAAAAGGAAAGAGGTATAACCATA
++
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+@AQUIFEX_00001_1186_1489_0:0:0_0:0:0_4/1
+AAGCACCCCATAATCCTTGAAAAGCTTGAATTCCCTGACCCCGTTATATCTATGGCTATAGAGCCAAAGACCAAGAAGGACCAAGAAAAACTCTCACAAG
++
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+fastq format, 4 lines each entry. It seems all sequences have maximum quality in all elements "I"
+
+
+Check for samples (r1 and r2)
+
+first line from sample hightemp01 (r1 and r2)
+@AQUIFEX_00001_1301_1575_0:0:0_0:0:0_0/1
+@AQUIFEX_00001_1301_1575_0:0:0_0:0:0_0/2
+
+first line from sample hightemp02 (r1 and r2)
+@AQUIFEX_00001_1601_1896_0:0:0_0:0:0_0/1
+@AQUIFEX_00001_1601_1896_0:0:0_0:0:0_0/2
+
+first line from sample normal01 (r1 and r2)
+@AQUIFEX_00001_1630_1924_0:0:0_0:0:0_0/1
+@AQUIFEX_00001_1630_1924_0:0:0_0:0:0_0/2
+
+first line from sample normal02 (r1 and r2)
+@AQUIFEX_00001_1299_1596_0:0:0_0:0:0_0/1
+@AQUIFEX_00001_1299_1596_0:0:0_0:0:0_0/2
+
+We have 4 samples
+
+checking numbers of reads (counts line 1 of each entry "^@AQUIFEX_" ) and max quality (all "I")
+
+Reads from sample hightemp01 (r1 / r2) and all "I" quality :  r1: 318719 / r2: 318719 max "I" quality r1: 318719 / r2: 318719
+  - forward and reverse have same reads and all elements in all reads have "I" (40) quality (99.99% probability of the element to be correct)
+Reads from sample hightemp02 (r1 / r2) and all "I" quality :  r1: 318719 / r2: 318719 max "I" quality r1: 318719 / r2: 318719
+  - forward and reverse have same reads and all elements in all reads have "I" (40) quality (99.99% probability of the element to be correct)
+Reads from sample normal01 (r1 / r2) and all "I" quality :  r1: 288742 / r2: 288742 max "I" quality r1: 288742 / r2: 288742
+  - forward and reverse have same reads and all elements in all reads have "I" (40) quality (99.99% probability of the element to be correct)
+Reads from sample normal02 (r1 / r2) and all "I" quality :  r1: 288742 / r2: 288742 max "I" quality r1: 288742 / r2: 288742
+  - forward and reverse have same reads and all elements in all reads have "I" (40) quality (99.99% probability of the element to be correct)
+
+All sequences have the same length: 100
+Press return or wait for timeout to continue...
+
+
+
+
+running /home/mariajose.rimon/scripts/gdav_3.sh
+
+
+
+
+      ########     genome analysis (read mapping)     ######## 
+
+
+[bwa_index] Pack FASTA... 0.01 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.36 seconds elapse.
+[bwa_index] Update BWT... 0.01 sec
+[bwa_index] Pack forward-only FASTA... 0.01 sec
+[bwa_index] Construct SA from BWT and Occ... 0.15 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index -p /home/mariajose.rimon/results/genome_analysis/read_mapping/aquifex_genome /home/mariajose.rimon/final_project/genome.fasta
+[main] Real time: 0.634 sec; CPU: 0.556 sec
+
+
+
+Activating samtools environment
+
+Sample hightemp01, creating binary bam file from sam file
+
+Flag stat data from hightemp01
+638004 + 0 in total (QC-passed reads + QC-failed reads)
+318719 + 0 read1
+318719 + 0 read2
+
+Sample hightemp02, creating binary bam file from sam file
+
+Flag stat data from hightemp02
+637997 + 0 in total (QC-passed reads + QC-failed reads)
+318719 + 0 read1
+318719 + 0 read2
+
+Sample normal01, creating binary bam file from sam file
+
+Flag stat data from normal01
+577508 + 0 in total (QC-passed reads + QC-failed reads)
+288742 + 0 read1
+288742 + 0 read2
+
+Sample normal02, creating binary bam file from sam file
+
+Flag stat data from normal02
+577503 + 0 in total (QC-passed reads + QC-failed reads)
+288742 + 0 read1
+288742 + 0 read2
+
+Press return or wait for timeout to continue...
+
+
+
+
+
+
+running /home/mariajose.rimon/scripts/gdav_4_1.sh
+
+
+Activating samtools environment
+
+sorting bam file hightemp01
+sorting bam file hightemp02
+sorting bam file normal01
+sorting bam file normal02
+
+
+Merge all sorted bam files into one. We use the header from the last bam file sorted
+index reference genome
+Activating bcftools environment
+
+Perform variant calling from merged bam
+[mpileup] 1 samples in 1 input files
+Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
+Perform variant calling from merged bam
+[mpileup] 4 samples in 4 input files
+Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
+
+
+
+Press return or wait for timeout to continue...
+
+
+running /home/mariajose.rimon/scripts/gdav_4_2.sh
+
+
+index reference genome
+Activating bcftools environment
+
+show stats for merged file
+# SN	[2]id	[3]key	[4]value
+SN	0	number of samples:	1
+SN	0	number of records:	1437336
+SN	0	number of no-ALTs:	1437333
+SN	0	number of SNPs:	3
+SN	0	number of multiallelic sites:	3
+SN	0	number of multiallelic SNP sites:	3
+# IDD	[2]id	[3]length (deletions negative)	[4]count
+# ST	[2]id	[3]type	[4]count
+ST	0	A>C	0
+ST	0	A>G	0
+ST	0	A>T	0
+ST	0	C>A	0
+ST	0	C>G	0
+ST	0	C>T	1
+ST	0	G>A	0
+ST	0	G>C	0
+ST	0	G>T	0
+ST	0	T>A	2
+ST	0	T>C	0
+ST	0	T>G	0
+
+show variants with quality > 100
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	DP	FORMAT	/home/mariajose.rimon/results/genome_analysis/variant_calling/merged.bam
+Aquifex_genome	1265060	.	C	T	188	.	249	VDB=3.5208e-10	SGB=-0.693147	RPB=0.944775	MQB=1	BQB=0.984769	MQ0F=0	ICB=1	HOB=0.5	AC=1	AN=2	DP4=136,0,112,0	MQ=60	GT:PL	0/1:221,0,249
+
+Total variants with quality > 100: 1
+
+show variants with depth of coverage > 100
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	DP	FORMAT	/home/mariajose.rimon/results/genome_analysis/variant_calling/merged.bam
+Aquifex_genome	1265060	.	C	T	188	.	249	VDB=3.5208e-10	SGB=-0.693147	RPB=0.944775	MQB=1	BQB=0.984769	MQ0F=0	ICB=1	HOB=0.5	AC=1	AN=2	DP4=136,0,112,0	MQ=60	GT:PL	0/1:221,0,249
+
+Total variants with depth of coverage > 100: 1
+
+Comparing the output from merged BAM file whith the separate files
+
+merged BAM file
+POS	REF	ALT	QUAL	DP
+1265060	C	T	188	249
+1265734	T	A	5.04598	6
+1265735	T	A	5.04598	3
+
+separate BAM files
+POS	REF	ALT	QUAL	DP
+1265060	C	T	950	674
+1265734	T	A	61	23
+1265735	T	A	61	14
+
+4.5 Identify the variant with best quality
+
+Aquifex_genome	Prodigal:002006	CDS	1264237	1265730	.	-	0	ID=AQUIFEX_01423;Name=nifA;gene=nifA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P03027;locus_tag=AQUIFEX_01423;product=Nif-specific regulatory protein
+
+4.6.-
+Activating samtools environment
+
+Merge by temperature sorted bam files into one and index for use in IGV
+
+
+Press return or wait for timeout to continue...
+
+
+running /home/mariajose.rimon/scripts/gdav_5.sh
+
+
+5. Differential expression analysis
+Activating samtools environment
+
+creating index for /home/mariajose.rimon/results/genome_analysis/variant_calling/hightemp01.sorted.bam ...
+creating index for /home/mariajose.rimon/results/genome_analysis/variant_calling/hightemp02.sorted.bam ...
+creating index for /home/mariajose.rimon/results/genome_analysis/variant_calling/normal01.sorted.bam ...
+creating index for /home/mariajose.rimon/results/genome_analysis/variant_calling/normal02.sorted.bam ...
+
+
+Activating base environment
+
+count file: /home/mariajose.rimon/results/genome_analysis/variant_calling/hightemp01.sorted.bam ...
+1769 GFF lines processed.
+Warning: Read AQUIFEX_00001_6_320_0:0:0_0:0:0_37 claims to have an aligned mate which could not be found in an adjacent line.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+Warning: 637438 reads with missing mate encountered.
+637438 alignment pairs processed.
+count file: /home/mariajose.rimon/results/genome_analysis/variant_calling/hightemp02.sorted.bam ...
+1769 GFF lines processed.
+Warning: Read AQUIFEX_00001_5_298_0:0:0_0:0:0_173 claims to have an aligned mate which could not be found in an adjacent line.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+600000 alignment record pairs processed.
+Warning: 637438 reads with missing mate encountered.
+637438 alignment pairs processed.
+count file: /home/mariajose.rimon/results/genome_analysis/variant_calling/normal01.sorted.bam ...
+1769 GFF lines processed.
+Warning: Read AQUIFEX_00001_15_331_0:0:0_0:0:0_192 claims to have an aligned mate which could not be found in an adjacent line.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+Warning: 577484 reads with missing mate encountered.
+577484 alignment pairs processed.
+count file: /home/mariajose.rimon/results/genome_analysis/variant_calling/normal02.sorted.bam ...
+1769 GFF lines processed.
+Warning: Read AQUIFEX_00001_5_315_0:0:0_0:0:0_4c claims to have an aligned mate which could not be found in an adjacent line.
+100000 alignment record pairs processed.
+200000 alignment record pairs processed.
+300000 alignment record pairs processed.
+400000 alignment record pairs processed.
+500000 alignment record pairs processed.
+Warning: 577484 reads with missing mate encountered.
+577484 alignment pairs processed.
+
+
+
+
+Press return or wait for timeout to continue...
+
+
+running /home/mariajose.rimon/scripts/DEAanalysis5.r
+
+
+Loading required package: S4Vectors
+Loading required package: stats4
+Loading required package: BiocGenerics
+Loading required package: parallel
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:parallel’:
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    anyDuplicated, append, as.data.frame, basename, cbind, colnames,
+    dirname, do.call, duplicated, eval, evalq, Filter, Find, get, grep,
+    grepl, intersect, is.unsorted, lapply, Map, mapply, match, mget,
+    order, paste, pmax, pmax.int, pmin, pmin.int, Position, rank,
+    rbind, Reduce, rownames, sapply, setdiff, sort, table, tapply,
+    union, unique, unsplit, which.max, which.min
+
+
+Attaching package: ‘S4Vectors’
+
+The following object is masked from ‘package:base’:
+
+    expand.grid
+
+Loading required package: IRanges
+Loading required package: GenomicRanges
+Loading required package: GenomeInfoDb
+Loading required package: SummarizedExperiment
+Loading required package: MatrixGenerics
+Loading required package: matrixStats
+
+Attaching package: ‘MatrixGenerics’
+
+The following objects are masked from ‘package:matrixStats’:
+
+    colAlls, colAnyNAs, colAnys, colAvgsPerRowSet, colCollapse,
+    colCounts, colCummaxs, colCummins, colCumprods, colCumsums,
+    colDiffs, colIQRDiffs, colIQRs, colLogSumExps, colMadDiffs,
+    colMads, colMaxs, colMeans2, colMedians, colMins, colOrderStats,
+    colProds, colQuantiles, colRanges, colRanks, colSdDiffs, colSds,
+    colSums2, colTabulates, colVarDiffs, colVars, colWeightedMads,
+    colWeightedMeans, colWeightedMedians, colWeightedSds,
+    colWeightedVars, rowAlls, rowAnyNAs, rowAnys, rowAvgsPerColSet,
+    rowCollapse, rowCounts, rowCummaxs, rowCummins, rowCumprods,
+    rowCumsums, rowDiffs, rowIQRDiffs, rowIQRs, rowLogSumExps,
+    rowMadDiffs, rowMads, rowMaxs, rowMeans2, rowMedians, rowMins,
+    rowOrderStats, rowProds, rowQuantiles, rowRanges, rowRanks,
+    rowSdDiffs, rowSds, rowSums2, rowTabulates, rowVarDiffs, rowVars,
+    rowWeightedMads, rowWeightedMeans, rowWeightedMedians,
+    rowWeightedSds, rowWeightedVars
+
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+
+Attaching package: ‘Biobase’
+
+The following object is masked from ‘package:MatrixGenerics’:
+
+    rowMedians
+
+The following objects are masked from ‘package:matrixStats’:
+
+    anyMissing, rowMedians
+
+Warning message:
+In DESeqDataSet(se, design = design, ignoreRank) :
+  some variables in design formula are characters, converting to factors
+null device 
+          1 
+null device 
+          1 
+estimating size factors
+estimating dispersions
+gene-wise dispersion estimates
+mean-dispersion relationship
+final dispersion estimates
+fitting model and testing
+null device 
+          1 
+[1] "Intercept"                    "condition_hightemp_vs_normal"
+
+out of 1508 with nonzero total read count
+adjusted p-value < 0.1
+LFC > 0 (up)       : 3, 0.2%
+LFC < 0 (down)     : 2, 0.13%
+outliers [1]       : 0, 0%
+low counts [2]     : 0, 0%
+(mean count < 3)
+[1] see 'cooksCutoff' argument of ?results
+[2] see 'independentFiltering' argument of ?results
+
+  ensembl_gene_id                                 Product  Name       pvalue
+1   AQUIFEX_01423         Nif-specific regulatory protein  nifA 0.000000e+00
+4   AQUIFEX_01759 FeMo cofactor biosynthesis protein NifB  nifB 0.000000e+00
+5   AQUIFEX_01761              Nitrogenase iron protein 1 nifH1 0.000000e+00
+2   AQUIFEX_01723                    hypothetical protein  <NA> 1.625279e-13
+3   AQUIFEX_01749                    hypothetical protein  <NA> 4.946049e-11
+          padj log2FoldChange
+1 0.000000e+00       5.056819
+4 0.000000e+00       4.970203
+5 0.000000e+00       4.952529
+2 6.127302e-11     -10.714361
+3 1.491728e-08      -9.617318
+null device 
+          1 
+
+
+Press return or wait for timeout to continue...
+
+
+running /home/mariajose.rimon/scripts/gdav_6.sh
+
+
+
+
+6. Functional analysis
+
+
+
+Extracting sequences of each over expressed gene out from /home/mariajose.rimon/results/genome_analysis/DEA/Annotated_Condition_hightemp_vs_normal_result_padj_0.01.csv file
+
+
+extracted sequence from gene AQUIFEX_01423
+extracted sequence from gene AQUIFEX_01759
+extracted sequence from gene AQUIFEX_01761
+
+
+
+
+
+Press return or wait for timeout to continue...
+
+
+running /home/mariajose.rimon/scripts/gdav_7.sh
+
+
+7. Phylogenetic analysis
+
+
+Building a new DB, current time: 01/31/2023 22:05:35
+New DB name:   /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/all_pro_blast_db
+New DB title:  /home/mariajose.rimon/final_project/all_reference_proteomes.faa
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 20455 sequences in 0.602047 seconds.
+
+
+nthread = 0
+nthreadpair = 0
+nthreadtb = 0
+ppenalty_ex = 0
+stacksize: 8192 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 35
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 35   10 / 35   20 / 35   30 / 35
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 34  fSTEP     2 / 34  fSTEP     3 / 34  fSTEP     4 / 34  fSTEP     5 / 34  fSTEP     6 / 34  fSTEP     7 / 34  fSTEP     8 / 34  fSTEP     9 / 34  fSTEP    10 / 34  fSTEP    11 / 34  fSTEP    12 / 34  fSTEP    13 / 34  fSTEP    14 / 34  fSTEP    15 / 34  fSTEP    16 / 34  fSTEP    17 / 34  fSTEP    18 / 34  fSTEP    19 / 34  fSTEP    20 / 34  fSTEP    21 / 34  fSTEP    22 / 34  fSTEP    23 / 34  fSTEP    24 / 34  fSTEP    25 / 34  fSTEP    26 / 34  fSTEP    27 / 34  fSTEP    28 / 34  fSTEP    29 / 34  fSTEP    30 / 34  fSTEP    31 / 34  f
+Reallocating..done. *alloclen = 3274
+STEP    32 / 34  fSTEP    33 / 34  fSTEP    34 / 34  f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 35
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 35   10 / 35   20 / 35   30 / 35
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 34  fSTEP     2 / 34  fSTEP     3 / 34  fSTEP     4 / 34  fSTEP     5 / 34  fSTEP     6 / 34  fSTEP     7 / 34  fSTEP     8 / 34  fSTEP     9 / 34  fSTEP    10 / 34  fSTEP    11 / 34  fSTEP    12 / 34  fSTEP    13 / 34  fSTEP    14 / 34  fSTEP    15 / 34  fSTEP    16 / 34  fSTEP    17 / 34  fSTEP    18 / 34  fSTEP    19 / 34  fSTEP    20 / 34  fSTEP    21 / 34  fSTEP    22 / 34  fSTEP    23 / 34  fSTEP    24 / 34  fSTEP    25 / 34  fSTEP    26 / 34  fSTEP    27 / 34  fSTEP    28 / 34  fSTEP    29 / 34  fSTEP    30 / 34  f
+Reallocating..done. *alloclen = 2857
+STEP    31 / 34  fSTEP    32 / 34  fSTEP    33 / 34  fSTEP    34 / 34  f
+done.
+
+disttbfast (aa) Version 7.475
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Apr 26 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    gdav (SSE3, 31 GB RAM)
+Command: iqtree -s /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg -m LG --fast
+Seed:    493443 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jan 31 22:05:38 2023
+Kernel:  SSE2 - 1 threads (16 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 35 sequences with 1668 columns, 1431 distinct patterns
+595 parsimony-informative, 665 singleton sites, 408 constant sites
+                                Gap/Ambiguity  Composition  p-value
+   1  AQUIFEX_01423                    70.20%    failed      0.05%
+   2  tr|O67661|O67661_AQUAE           70.20%    failed      0.05%
+   3  tr|A0A497XW95|A0A497XW95_9AQUI   69.12%    passed     53.99%
+   4  tr|O66591|O66591_AQUAE           69.66%    passed     17.92%
+   5  tr|A0A497XQD2|A0A497XQD2_9AQUI   69.66%    passed     37.43%
+   6  tr|D5ANJ5|D5ANJ5_RHOCB           67.75%    failed      0.08%
+   7  tr|A0A1D9N7N0|A0A1D9N7N0_CLOPA   60.01%    failed      0.00%
+   8  sp|D5ARW9|NIFA_RHOCB             65.29%    failed      0.00%
+   9  tr|D5ANH8|D5ANH8_RHOCB           65.11%    failed      0.00%
+  10  tr|A0A497XWM1|A0A497XWM1_9AQUI   73.02%    passed     15.26%
+  11  tr|A0A497XPD5|A0A497XPD5_9AQUI   73.56%    passed      9.15%
+  12  tr|A0A1D9N167|A0A1D9N167_CLOPA   59.53%    failed      0.00%
+  13  tr|A0A497XPP3|A0A497XPP3_9AQUI   71.58%    passed     13.68%
+  14  tr|A0A1D9N8L1|A0A1D9N8L1_CLOPA   65.77%    failed      0.00%
+  15  tr|O67198|O67198_AQUAE           73.68%    failed      0.12%
+  16  tr|A0A497XQY2|A0A497XQY2_9AQUI   73.50%    passed     17.48%
+  17  tr|O66551|O66551_AQUAE           73.50%    failed      2.07%
+  18  tr|A0A1D9MZ79|A0A1D9MZ79_CLOPA   65.05%    failed      0.00%
+  19  tr|O66596|O66596_AQUAE           73.14%    failed      0.18%
+  20  tr|A0A1D9N3I3|A0A1D9N3I3_CLOPA   61.39%    failed      0.00%
+  21  tr|A0A497XSL5|A0A497XSL5_9AQUI   72.66%    passed     54.55%
+  22  tr|D5AMR6|D5AMR6_RHOCB           72.54%    failed      0.00%
+  23  tr|O66502|O66502_AQUAE           87.41%    passed     24.57%
+  24  tr|D5AUA6|D5AUA6_RHOCB           71.46%    failed      0.34%
+  25  tr|D5APH1|D5APH1_RHOCB           70.50%    failed      0.00%
+  26  sp|P09432|NTRC_RHOCB             72.54%    failed      0.00%
+  27  tr|D5AVB4|D5AVB4_RHOCB           73.56%    failed      0.00%
+  28  tr|A0A1D9N6U0|A0A1D9N6U0_CLOPA   46.04%    failed      0.00%
+  29  tr|D5ASJ2|D5ASJ2_RHOCB           64.21%    failed      0.00%
+  30  tr|Q8YR90|Q8YR90_NOSS1           49.58%    failed      0.00%
+  31  tr|A0A1D9N7Z8|A0A1D9N7Z8_CLOPA   44.48%    failed      0.00%
+  32  tr|D5AMA7|D5AMA7_RHOCB           73.26%    failed      0.00%
+  33  tr|O66501|O66501_AQUAE           82.13%    failed      3.20%
+  34  tr|A0A1D9N929|A0A1D9N929_CLOPA   62.11%    failed      0.06%
+  35  tr|A0A1D9N5D3|A0A1D9N5D3_CLOPA   66.55%    failed      0.05%
+WARNING: 32 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                            67.99%  26 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: tr|O67661|O67661_AQUAE is identical to AQUIFEX_01423 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.014 seconds
+
+NOTE: 7 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -44235.349
+Optimal log-likelihood: -37970.904
+Parameters optimization took 1 rounds (0.423 sec)
+Computing ML distances based on estimated model parameters... 0.052 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.001 seconds
+Log-likelihood of BIONJ tree: -37954.555
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -37908.617
+Finish initializing candidate tree set (4)
+Current best tree score: -37908.617 / CPU time: 3.338
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:4s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -37908.617
+Optimal log-likelihood: -37908.616
+Parameters optimization took 1 rounds (0.139 sec)
+BEST SCORE FOUND : -37908.616
+Total tree length: 27.538
+
+Total number of iterations: 2
+CPU time used for tree search: 3.318 sec (0h:0m:3s)
+Wall-clock time used for tree search: 3.338 sec (0h:0m:3s)
+Total CPU time used: 4.455 sec (0h:0m:4s)
+Total wall-clock time used: 4.487 sec (0h:0m:4s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg.iqtree
+  Maximum-likelihood tree:       /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg.treefile
+  Likelihood distances:          /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg.mldist
+  Screen log file:               /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01423_homologs.alg.log
+
+Date and Time: Tue Jan 31 22:05:42 2023
+nthread = 0
+nthreadpair = 0
+nthreadtb = 0
+ppenalty_ex = 0
+stacksize: 8192 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 14
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 14   10 / 14
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 13  fSTEP     2 / 13  fSTEP     3 / 13  fSTEP     4 / 13  fSTEP     5 / 13  fSTEP     6 / 13  fSTEP     7 / 13  fSTEP     8 / 13  fSTEP     9 / 13  fSTEP    10 / 13  fSTEP    11 / 13  fSTEP    12 / 13  fSTEP    13 / 13  f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 14
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 14   10 / 14
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 13  fSTEP     2 / 13  fSTEP     3 / 13  fSTEP     4 / 13  fSTEP     5 / 13  fSTEP     6 / 13  fSTEP     7 / 13  fSTEP     8 / 13  fSTEP     9 / 13  fSTEP    10 / 13  fSTEP    11 / 13  fSTEP    12 / 13  fSTEP    13 / 13  f
+done.
+
+disttbfast (aa) Version 7.475
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Apr 26 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    gdav (SSE3, 31 GB RAM)
+Command: iqtree -s /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg -m LG --fast
+Seed:    166824 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jan 31 22:05:45 2023
+Kernel:  SSE2 - 1 threads (16 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 14 sequences with 1010 columns, 553 distinct patterns
+299 parsimony-informative, 194 singleton sites, 517 constant sites
+                                Gap/Ambiguity  Composition  p-value
+   1  AQUIFEX_01759                    70.20%    passed     84.45%
+   2  tr|Q6LZH0|Q6LZH0_METMP           70.59%    passed     63.51%
+   3  tr|D7DSI7|D7DSI7_METV3           70.59%    passed     93.16%
+   4  tr|A0A1D9N710|A0A1D9N710_CLOPA   70.69%    passed     22.13%
+   5  sp|P20627|NIFB_NOSS1             52.97%    passed     41.82%
+   6  tr|Q6J2L8|Q6J2L8_CLOPA            8.02%    failed      0.85%
+   7  tr|D5ANH7|D5ANH7_RHOCB           50.79%    failed      0.00%
+   8  tr|D7DS11|D7DS11_METV3           70.50%    passed     56.85%
+   9  sp|O67929|MOAA_AQUAE             68.32%    failed      1.75%
+  10  sp|Q6LZQ3|MOAA_METMP             70.59%    passed     90.34%
+  11  tr|A0A497XQQ8|A0A497XQQ8_9AQUI   67.13%    failed      0.10%
+  12  tr|A0A1D9N142|A0A1D9N142_CLOPA   68.51%    passed      8.15%
+  13  sp|Q8YQG6|MOAA_NOSS1             67.52%    failed      0.00%
+  14  tr|A0A1D9MZX3|A0A1D9MZX3_CLOPA   67.03%    passed     23.27%
+WARNING: 13 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                            62.39%  5 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -12015.545
+Optimal log-likelihood: -10744.623
+Parameters optimization took 1 rounds (0.037 sec)
+Computing ML distances based on estimated model parameters... 0.006 sec
+Computing BIONJ tree...
+0.000 seconds
+Log-likelihood of BIONJ tree: -10744.566
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 1 parsimony trees... 0.002 second
+Computing log-likelihood of 1 initial trees ... 0.014 seconds
+Current best score: -10744.566
+
+Do NNI search on 2 best initial trees
+Finish initializing candidate tree set (2)
+Current best tree score: -10744.566 / CPU time: 0.288
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -10744.566
+Optimal log-likelihood: -10744.566
+Parameters optimization took 1 rounds (0.017 sec)
+BEST SCORE FOUND : -10744.566
+Total tree length: 9.394
+
+Total number of iterations: 2
+CPU time used for tree search: 0.284 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.288 sec (0h:0m:0s)
+Total CPU time used: 0.423 sec (0h:0m:0s)
+Total wall-clock time used: 0.428 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg.iqtree
+  Maximum-likelihood tree:       /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg.treefile
+  Likelihood distances:          /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg.mldist
+  Screen log file:               /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01759_homologs.alg.log
+
+Date and Time: Tue Jan 31 22:05:45 2023
+nthread = 0
+nthreadpair = 0
+nthreadtb = 0
+ppenalty_ex = 0
+stacksize: 8192 kb
+rescale = 1
+Gap Penalty = -1.53, +0.00, +0.00
+
+
+
+Making a distance matrix ..
+    1 / 27
+done.
+
+Constructing a UPGMA tree (efffree=0) ... 
+    0 / 27   10 / 27   20 / 27
+done.
+
+Progressive alignment 1/2... 
+STEP     1 / 26  fSTEP     2 / 26  fSTEP     3 / 26  fSTEP     4 / 26  fSTEP     5 / 26  fSTEP     6 / 26  fSTEP     7 / 26  fSTEP     8 / 26  fSTEP     9 / 26  fSTEP    10 / 26  fSTEP    11 / 26  fSTEP    12 / 26  fSTEP    13 / 26  fSTEP    14 / 26  fSTEP    15 / 26  fSTEP    16 / 26  fSTEP    17 / 26  fSTEP    18 / 26  fSTEP    19 / 26  fSTEP    20 / 26  fSTEP    21 / 26  fSTEP    22 / 26  fSTEP    23 / 26  f
+Reallocating..done. *alloclen = 1668
+STEP    24 / 26  fSTEP    25 / 26  fSTEP    26 / 26  f
+done.
+
+Making a distance matrix from msa.. 
+    0 / 27
+done.
+
+Constructing a UPGMA tree (efffree=1) ... 
+    0 / 27   10 / 27   20 / 27
+done.
+
+Progressive alignment 2/2... 
+STEP     1 / 26  fSTEP     2 / 26  fSTEP     3 / 26  fSTEP     4 / 26  fSTEP     5 / 26  fSTEP     6 / 26  fSTEP     7 / 26  fSTEP     8 / 26  fSTEP     9 / 26  fSTEP    10 / 26  fSTEP    11 / 26  fSTEP    12 / 26  fSTEP    13 / 26  fSTEP    14 / 26  fSTEP    15 / 26  fSTEP    16 / 26  fSTEP    17 / 26  fSTEP    18 / 26  fSTEP    19 / 26  fSTEP    20 / 26  fSTEP    21 / 26  fSTEP    22 / 26  fSTEP    23 / 26  f
+Reallocating..done. *alloclen = 1670
+STEP    24 / 26  fSTEP    25 / 26  fSTEP    26 / 26  f
+done.
+
+disttbfast (aa) Version 7.475
+alg=A, model=BLOSUM62, 1.53, -0.00, -0.00, noshift, amax=0.0
+0 thread(s)
+
+
+Strategy:
+ FFT-NS-2 (Fast but rough)
+ Progressive method (guide trees were built 2 times.)
+
+If unsure which option to use, try 'mafft --auto input > output'.
+For more information, see 'mafft --help', 'mafft --man' and the mafft page.
+
+The default gap scoring scheme has been changed in version 7.110 (2013 Oct).
+It tends to insert more gaps into gap-rich regions than previous versions.
+To disable this change, add the --leavegappyregion option.
+
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Apr 26 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    gdav (SSE3, 31 GB RAM)
+Command: iqtree -s /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg -m LG --fast
+Seed:    105369 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jan 31 22:05:48 2023
+Kernel:  SSE2 - 1 threads (16 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 27 sequences with 402 columns, 370 distinct patterns
+208 parsimony-informative, 105 singleton sites, 89 constant sites
+                                Gap/Ambiguity  Composition  p-value
+   1  AQUIFEX_01761                    31.59%    passed     73.00%
+   2  sp|P0CW57|NIFH_METMP             31.59%    passed     73.00%
+   3  tr|A0A1D9N950|A0A1D9N950_CLOPA   31.59%    passed     82.61%
+   4  sp|P09553|NIFH3_CLOPA            31.59%    passed     82.61%
+   5  tr|D5ANJ6|D5ANJ6_RHOCB           31.59%    passed     95.51%
+   6  tr|A0A1D9N1X3|A0A1D9N1X3_CLOPA   32.09%    passed     99.98%
+   7  tr|A0A1D9N1X8|A0A1D9N1X8_CLOPA   32.09%    passed     99.79%
+   8  sp|P00456|NIFH1_CLOPA            32.09%    passed     99.79%
+   9  tr|A0A1D9N7I5|A0A1D9N7I5_CLOPA   32.09%    passed     99.97%
+  10  sp|P22548|NIFH4_CLOPA            32.09%    passed     99.97%
+  11  tr|A0A1D9N2X1|A0A1D9N2X1_CLOPA   32.34%    passed    100.00%
+  12  sp|P09555|NIFH6_CLOPA            32.34%    passed    100.00%
+  13  tr|A0A1D9N1N2|A0A1D9N1N2_CLOPA   32.09%    passed     99.97%
+  14  sp|P09554|NIFH5_CLOPA            32.09%    passed     99.97%
+  15  sp|P09552|NIFH2_CLOPA            32.34%    passed    100.00%
+  16  sp|P00457|NIFH1_NOSS1            26.62%    passed     84.97%
+  17  sp|O30577|NIFH2_NOSS1            26.12%    passed     61.14%
+  18  sp|D5ANI3|NIFH1_RHOCB            26.62%    passed     98.34%
+  19  tr|D7DT99|D7DT99_METV3           30.85%    passed     86.46%
+  20  tr|D5AKX6|D5AKX6_RHOCB           27.86%    failed      0.00%
+  21  tr|Q6M0X1|Q6M0X1_METMP           22.14%    passed     33.92%
+  22  sp|D5ANS3|BCHL_RHOCB             24.38%    passed      6.18%
+  23  tr|G3FD00|G3FD00_NOSS1           74.38%    passed     95.07%
+  24  tr|H7BT35|H7BT35_NOSS1           74.63%    passed     95.04%
+  25  sp|P26177|BCHX_RHOCB             17.16%    passed      6.66%
+  26  sp|Q8YM62|CHLL_NOSS1             28.36%    passed     23.11%
+  27  tr|Q6LY48|Q6LY48_METMP           34.83%    failed      3.85%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                            33.09%  2 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: sp|P0CW57|NIFH_METMP is identical to AQUIFEX_01761 but kept for subsequent analysis
+NOTE: sp|P09553|NIFH3_CLOPA is identical to tr|A0A1D9N950|A0A1D9N950_CLOPA but kept for subsequent analysis
+NOTE: sp|P00456|NIFH1_CLOPA is identical to tr|A0A1D9N1X8|A0A1D9N1X8_CLOPA but kept for subsequent analysis
+NOTE: sp|P22548|NIFH4_CLOPA is identical to tr|A0A1D9N7I5|A0A1D9N7I5_CLOPA but kept for subsequent analysis
+NOTE: sp|P09555|NIFH6_CLOPA is identical to tr|A0A1D9N2X1|A0A1D9N2X1_CLOPA but kept for subsequent analysis
+NOTE: sp|P09554|NIFH5_CLOPA is identical to tr|A0A1D9N1N2|A0A1D9N1N2_CLOPA but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+
+NOTE: 1 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -7336.240
+Optimal log-likelihood: -7124.954
+Parameters optimization took 1 rounds (0.051 sec)
+Computing ML distances based on estimated model parameters... 0.017 sec
+Computing BIONJ tree...
+0.001 seconds
+Log-likelihood of BIONJ tree: -7156.625
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -7105.016
+Finish initializing candidate tree set (3)
+Current best tree score: -7105.016 / CPU time: 0.489
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:0m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -7105.016
+Optimal log-likelihood: -7105.016
+Parameters optimization took 1 rounds (0.023 sec)
+BEST SCORE FOUND : -7105.016
+Total tree length: 7.264
+
+Total number of iterations: 2
+CPU time used for tree search: 0.489 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.489 sec (0h:0m:0s)
+Total CPU time used: 0.743 sec (0h:0m:0s)
+Total wall-clock time used: 0.751 sec (0h:0m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg.iqtree
+  Maximum-likelihood tree:       /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg.treefile
+  Likelihood distances:          /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg.mldist
+  Screen log file:               /home/mariajose.rimon/results/genome_analysis/phylogenetic_analysis/AQUIFEX_01761_homologs.alg.log
+
+Date and Time: Tue Jan 31 22:05:48 2023
+
+
+
+Finished all scripts
+
+
+
